@@ -1,5 +1,9 @@
 # College Basketball Betting Algorithm
 
+A Python analytics project with a Streamlit dashboard for evaluating college basketball and NBA matchups. It combines team-strength estimates, injuries, sportsbook odds, public betting splits, and line movement to surface potential market discrepancies. Users can explore model projections and filtered signals in the dashboard or export JSON reports from the command line.
+
+The projections use heuristic models and available data feeds; they are not validated guarantees of predictive accuracy or betting returns.
+
 This project builds a college basketball betting signal report from live market data.
 
 It pulls:
